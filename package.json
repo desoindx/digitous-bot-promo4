@@ -1,0 +1,25 @@
+{
+  "name": "digitous-bot-promo4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desoindx/digitous-bot-promo4.git"
+  },
+  "author": "Xavier Desoindre & Promo 4 digitous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desoindx/digitous-bot-promo4/issues"
+  },
+  "homepage": "https://github.com/desoindx/digitous-bot-promo4#readme",
+  "dependencies": {
+    "@slack/web-api": "^5.14.0",
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "slackbots": "^1.2.0"
+  }
+}
